@@ -1,0 +1,8 @@
+Hello Everyone Welcome to the series Hello Git
+Hello Man
+
+git init -> to Initialize git in that repository
+
+git status -> to know the current status of the file
+
+git add . -> to add all the files to staging area
