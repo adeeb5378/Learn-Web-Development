@@ -9,4 +9,8 @@ git add . -> to add all the files to staging area
 
 git commit -m "any message" -> to commit the file 
 
+git push -> to push to github
+
 git config --global user.name -> to know user name
+
+git config --global user.email -> to know user email id
