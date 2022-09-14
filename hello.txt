@@ -11,6 +11,8 @@ git commit -m "any message" -> to commit the file
 
 git push -> to push to github
 
+git log -> to know about pushed file to github
+
 git config --global user.name -> to know user name
 
 git config --global user.email -> to know user email id
