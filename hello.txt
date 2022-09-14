@@ -8,3 +8,5 @@ git status -> to know the current status of the file
 git add . -> to add all the files to staging area
 
 git commit -m "any message" -> to commit the file 
+
+git config --global user.name
